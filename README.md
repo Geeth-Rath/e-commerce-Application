@@ -21,14 +21,14 @@ Replace localhost, username, password, and database_name with your MySQL server 
 
 API Endpoints
 products
-POST /recommend/ - Create a new product.
-GET /recommend/ - Get a list of all products.
-GET /recommend/product/:id - Get details of a specific product by ID.
+* POST /recommend/ - Create a new product.
+* GET /recommend/ - Get a list of all products.
+* GET /recommend/product/:id - Get details of a specific product by ID.
 
 user
-POST /auth/ - Create a new user.
-GET /auth/ - Get a list of all users.
-GET /auth/profile/:id - Get details of a specific user by ID.
+* POST /auth/ - Create a new user.
+* GET /auth/ - Get a list of all users.
+* GET /auth/profile/:id - Get details of a specific user by ID.
 
 -Redux
 
