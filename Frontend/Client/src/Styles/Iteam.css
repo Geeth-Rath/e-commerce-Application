@@ -1,0 +1,39 @@
+.iteam-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 42px;
+}
+
+.iteam-image-container {
+    width: 50%;
+}
+
+.iteam-image {
+    width: 100%;
+    height: auto;
+}
+
+.iteam-details-container {
+    padding: 20px;
+}
+
+.iteam-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.iteam-price {
+    color: red;
+}
+
+.iteam-features {
+    font-size: 18px;
+
+}
+
+.iteam-type {
+    font-size: 16px;
+}
+
+.iteam-stock {}
